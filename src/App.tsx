@@ -1,5 +1,7 @@
+import MyRouterProvider from "./pages/MyRouterProvider";
+
 const App = () => {
-  return <div></div>;
+  return <MyRouterProvider />;
 };
 
 export default App;
